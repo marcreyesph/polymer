@@ -31,6 +31,7 @@
   },
   "private": true,
   "resolutions": {
-    "test-fixture": "custom-elements-v1"
+    "test-fixture": "custom-elements-v1",
+    "custom-elements": "remove-mo"
   }
 }
